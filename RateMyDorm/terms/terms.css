@@ -1,0 +1,90 @@
+/*
+  Jadon Silva, Mustafa Eldmerdash, Michael Komnick
+  April 30, 2022
+  The terms css file for RateMyDorm
+*/
+
+body {
+  background-color: #EEEEEE
+;
+}
+
+p {
+  width: 10in;
+  padding: 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
+p.indented {
+  width: 10in;
+  padding: 0;
+  margin-left: 5.2em;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
+h2 {
+  width: 10in;
+  padding: 0;
+  margin-left: 1.8em;
+  margin-top: 1em;
+  font-size: 2.5em;
+}
+
+h1 {
+  width: 10in;
+  padding: 0;
+  margin-left: 2.3em;
+  margin-top: 1em;
+  font-size: 2em;
+}
+
+h3 {
+  width: 10in;
+  padding: 0;
+  margin-left: 3em;
+  margin-top: 1em;
+  font-size: 1.6em;
+}
+
+li {
+  width: 10in;
+  padding: 0;
+  margin-left: 3.5em;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+
+a:link {
+	color: #163667;
+}
+  
+a:visited {
+	color: #163667;
+}
+  
+a:hover {
+	color: #163667;
+}
+
+a:active {
+	color: #163667;
+}
+
+a.menu:link {
+	color: white;
+}
+  
+a.menu:visited {
+	color: white;
+}
+  
+a.menu:hover {
+	color: white;
+}
+
+a.menu:active {
+	color: white;
+}111
