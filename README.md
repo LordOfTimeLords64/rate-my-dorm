@@ -11,10 +11,10 @@ Note: Luckily, our IT department installed and configured MySQL and Apache for e
 
 1. Install and configure [MySQL](https://www.mysql.com/)
 
-2. Modify the "databaseBuild.sql" script to use whatever username and password you'd like
+2. Modify the `databaseBuild.sql` script to use whatever username and password you'd like
 
-3. Run MySQL and execute the "databaseBuild.sql" script
+3. Run MySQL and execute the `databaseBuild.sql` script
 
-4. Install and setup a web server to serve the "RateMyDorm" folder and access the MySQL database
+4. Install and setup a web server to serve the `RateMyDorm` folder and access the MySQL database
 
-5. Modify the "functions.php" file to use your database username, password, and host address
+5. Modify the `functions.php` file to use your database username, password, and host address
